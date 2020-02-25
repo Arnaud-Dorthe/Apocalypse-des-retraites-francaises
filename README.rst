@@ -15,14 +15,29 @@
 Simulateur macroscopique du système de retraites
 ================================================
 
-Introduction
+ Introduction 
 ------------
+Ce simulateur du système des retraites françaises a pour objectif de donner une estimation fiable et non partisane du solde du système des retraites françaises. A l'heure actuelle le Conseil d'Orientation des Retraites (COR) mets déjà à disposition du public un simulateur du système des retraites françaises sur son site. Cependant ce simulateur souffre de plusieurs écueils:
+- concernant la légitimité du conseil d'orientation des retraites
+
+En effet le conseil d'orientation des retraites est placé sous la tutelle du gouvernement. Pour certains cela présente un conflit d'intérêts qui menace l'objectivité des rapports fournis par le conseil d'orientation des retraites.
+
+ concernant les hypothèses de calcul 
+ 
+ En effet les hypothèses de croissance socio-économiques sont celles que le Trésor français communique à Bruxelles, pour les trois ou cinq prochaines années. Au-delà, à moyen et long terme, les prévisions socio-économiques sont fantaisistes puisqu'elles elles ne tiennent pas du tout compte de l'effondrement systémic global à venir (Apocalypse). 
+
+Je développe donc un nouveau simulateur qui est totalement transparent et qui tient compte de l'Apocalypse. 
+Quand il sera finalisé ce simulateur permettra ainsi de mieux communiquer sur la problèmatique des retraites en France auprès du public. En effet c'est un projet open-source donc n'importe quel hérétique est libre de fouiner et pourquoi pas d'y contribuer, après s'être converti à la collapsologie.
+De plus il offrira à la France un outil d'aide à la décision qui lui permet de mieux orienter ses politiques publiques. En effet il lui permettra de faire des choix plus pertinents concernant la gestion des finances publiques, au-delà des idéologies partisanes des différents parties prenantes du système des retraites françaises, en tenant compte de l'avis des collapsologues, Dieu merci ! 
 
 .. _`données de projection du COR`: https://www.cor-retraites.fr/simulateur/fileProjection.json
 .. _`documentation technique fournie par le COR`: https://www.cor-retraites.fr/simulateur/img/pdf/Documentation_technique_vf.pdf
 .. _`SimulateurRetraites.py`: https://github.com/brunoscherrer/retraites/blob/master/retraites/SimulateurRetraites.py
 .. _`demo.py`: https://github.com/brunoscherrer/retraites/blob/master/demo.py
 .. _`fig`: https://github.com/brunoscherrer/retraites/blob/master/fig
+
+Projet
+------------
 
 Le COR (conseil d'orientation des retraites) a mis en ligne un simulateur pour permettre aux citoyens de simuler les effets macroscopiques des grandes lignes d'une réforme des retraites.
 Ce projet vise a reproduire les résultats et à ajouter un certain nombre de fonctionnalités utiles, comme celui de proposer de concevoir une réforme à prestation définie (ex: calcul automatique des cotisations sociales pour avoir un système équilibré financièrement avec un certain niveau de vie pour les retraités et un age de départ fixé a priori).
