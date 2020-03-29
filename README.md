@@ -1,19 +1,19 @@
-## Simulateur de l'Apocalypse du système de retraites
+## Simulateur de l'Apocalypse du système des retraites
 
 
 ### Introduction 
 Ce simulateur du système des retraites françaises a pour objectif de donner une estimation fiable et non partisane du solde du système des retraites françaises. A l'heure actuelle le Conseil d'Orientation des Retraites (COR) mets déjà à disposition du public un simulateur du système des retraites françaises sur son site. Cependant ce simulateur souffre de plusieurs écueils:
 - **concernant la légitimité du conseil d'orientation des retraites**
 
-En effet le conseil d'orientation des retraites est placé sous la tutelle du gouvernement. Pour certains cela présente un conflit d'intérêts qui menace l'objectivité des rapports fournis par le conseil d'orientation des retraites.
+Le conseil d'orientation des retraites est placé sous la tutelle du gouvernement. Pour certains cela présente un conflit d'intérêts qui menace l'objectivité des rapports fournis par le conseil d'orientation des retraites.
 
 - **concernant les hypothèses de calcul**
  
- En effet les hypothèses de croissance socio-économiques sont celles que le Trésor français communique à Bruxelles, pour les trois ou cinq prochaines années. Au-delà, à moyen et long terme, les prévisions socio-économiques sont fantaisistes puisqu'elles elles ne tiennent pas du tout compte de l'effondrement systémic global à venir (Apocalypse). 
+ Les hypothèses de croissance socio-économiques sont celles que le Trésor français communique à Bruxelles, pour les trois ou cinq prochaines années. Au-delà, à moyen et long terme, les prévisions socio-économiques sont fantaisistes puisqu'elles elles ne tiennent pas du tout compte de l'effondrement systémic global à venir (Apocalypse). 
 
 Je développe donc un nouveau simulateur qui est totalement transparent et qui tient compte de l'Apocalypse. 
-Quand il sera finalisé ce simulateur permettra ainsi de mieux communiquer sur la problèmatique des retraites en France auprès du public. En effet c'est un projet open-source donc n'importe quel hérétique est libre de fouiner et pourquoi pas d'y contribuer, après s'être converti à la collapsologie.
-De plus il offrira à la France un outil d'aide à la décision qui lui permet de mieux orienter ses politiques publiques. En effet il lui permettra de faire des choix plus pertinents concernant la gestion des finances publiques, au-delà des idéologies partisanes des différents parties prenantes du système des retraites françaises, en tenant compte de l'avis des collapsologues, Dieu merci ! 
+Ce simulateur permettra ainsi de mieux communiquer sur la problèmatique des retraites auprès du public français puisque c'est un projet open-source. N'importe quel hérétique est libre de fouiner et pourquoi pas d'y contribuer, après s'être converti à la collapsologie.
+De plus il offrira à la France un outil d'aide à la décision qui lui permet de mieux orienter ses politiques publiques. En effet il lui permettra de faire des choix plus pertinents concernant la gestion des finances publiques en tenant compte enfin des avertissements des collapsologues, Dieu merci ! 
 
 
 ### Projet
