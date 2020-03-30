@@ -9,7 +9,7 @@ Le conseil d'orientation des retraites est placé sous la tutelle du gouvernemen
 
 - **concernant les hypothèses de calcul**
  
- Les hypothèses de croissance socio-économiques sont celles que le Trésor français communique à Bruxelles, pour les trois ou cinq prochaines années. Au-delà, à moyen et long terme, les prévisions socio-économiques sont fantaisistes puisqu'elles elles ne tiennent pas du tout compte de l'effondrement systémic global à venir (Apocalypse). 
+ Les hypothèses de croissance socio-économiques sont celles que le Trésor français communique à Bruxelles, pour les trois ou cinq prochaines années. Au-delà, à moyen et long terme, les prévisions socio-économiques sont fantaisistes puisqu'elles elles ne tiennent pas du tout compte de l'effondrement systémique global à venir (Apocalypse). 
 
 Je développe donc un nouveau simulateur qui est totalement transparent et qui tient compte de l'Apocalypse. 
 Ce simulateur permettra ainsi de mieux communiquer sur la problématique des retraites auprès du public français puisque c'est un projet open-source. N'importe quel hérétique est libre de fouiner et pourquoi pas d'y contribuer, après s'être converti à la collapsologie.
