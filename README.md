@@ -87,3 +87,9 @@ Le code précédent produit le graphique suivant.
 .. |License| image:: https://img.shields.io/github/license/brunoscherrer/retraites
 .. _License: https://opensource.org/licenses/gpl-license
 
+### Contribuer
+
+La meilleure façon de contribuer est de proposer des Pull Requests sur GitHub. Créer un compte GitHub si vous ne l'avez pas déjà fait et clonez le référentiel sur avec le bouton "Fork" dans le coin supérieur droit de la page. Vérifiez votre clone sur votre machine, modifiez-le, envoyez vos modifications à votre clone et soumettez une Pull Request; les instructions sont disponibles sur https://help.github.com/articles/fork-a-repo.
+
+Si vous en avez besoin, des instructions plus détaillées pour créer des Pull Requests sont disponibles sur https://help.github.com/articles/using-pull-requests, et un guide de base sur GitHub se trouve sur https://guides.github.com/activities/hello-world/. GitHub propose également un apprentissage interactif sur https://lab.github.com/.
+
