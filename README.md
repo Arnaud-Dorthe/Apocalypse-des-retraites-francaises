@@ -9,10 +9,9 @@ Le conseil d'orientation des retraites est placé sous la tutelle du gouvernemen
 
 - **concernant les hypothèses de calcul**
  
- Les hypothèses de croissance socio-économiques sont celles que le Trésor français communique à Bruxelles, pour les trois ou cinq prochaines années. Au-delà, à moyen et long terme, les prévisions socio-économiques sont fantaisistes puisqu'elles elles ne tiennent pas du tout compte de l'effondrement systémique global qui est en cours (Apocalypse). 
+ Les hypothèses de croissance socio-économiques sont celles que le Trésor français communique à Bruxelles, pour les trois ou cinq prochaines années. Au-delà, à moyen et long terme, les prévisions socio-économiques sont fantaisistes puisqu'elles ne tiennent pas du tout compte de l'effondrement systémique global qui est en cours (Apocalypse). 
 
-Je développe donc un nouveau simulateur qui est totalement transparent et qui tient compte de l'Apocalypse. Pour ce faire, j'inclus les résultats de mon modèle Apocalypse Dynamics dans les hypothèses socio-économiques à moyen et long terme de croissance en France. Ce simulateur permettra ainsi de mieux communiquer sur la problématique des retraites auprès du public français puisque c'est un projet open-source. N'importe quel hérétique est libre de fouiner et pourquoi pas d'y contribuer, après s'être converti à la collapsologie.
-De plus il offrira à la France un outil d'aide à la décision qui lui permettra de mieux orienter ses politiques publiques. En effet il lui permettra de faire des choix plus pertinents concernant la gestion des finances publiques en tenant compte enfin des avertissements des collapsologues, Dieu merci ! 
+Je développe donc un nouveau simulateur open-source qui tient compte de l'Apocalypse. Pour ce faire, j'inclus les résultats de mon modèle Apocalypse Dynamics dans les hypothèses socio-économiques à moyen et long terme de croissance en France. Ce simulateur permettra ainsi de mieux communiquer sur la problématique des retraites auprès du public français puisque le code source est ouvert. N'importe quel hérétique est libre de fouiner et pourquoi pas d'y contribuer, après s'être converti à la collapsologie. De plus il offrira à la France un outil d'aide à la décision qui lui permettra de mieux orienter ses politiques publiques. En effet il lui permettra de faire des choix plus pertinents concernant la gestion des finances publiques en tenant compte enfin des avertissements des collapsologues, Dieu merci ! 
 
 
 ### Projet
@@ -87,9 +86,10 @@ Le code précédent produit le graphique suivant.
 .. |License| image:: https://img.shields.io/github/license/brunoscherrer/retraites
 .. _License: https://opensource.org/licenses/gpl-license
 
-### Contribuer
+### Comment contribuer
 
-La meilleure façon de contribuer est de proposer des Pull Requests sur GitHub. Créer un compte GitHub si vous ne l'avez pas déjà fait et clonez le référentiel sur avec le bouton "Fork" dans le coin supérieur droit de la page. Vérifiez votre clone sur votre machine, modifiez-le, envoyez vos modifications à votre clone et soumettez une Pull Request; les instructions sont disponibles sur https://help.github.com/articles/fork-a-repo.
+La meilleure façon de contribuer est de proposer des Pull Requests sur GitHub. 
+Crée un compte GitHub si tu ne l'as pas déjà fait et clone le référentiel grâce au bouton "Fork" dans le coin supérieur droit de la page. Vérifie ton clone sur ton ordi, modifie-le, mets à jour ton clone et soumets une Pull Request; les instructions sont disponibles sur https://help.github.com/articles/fork-a-repo.
 
-Si vous en avez besoin, des instructions plus détaillées pour créer des Pull Requests sont disponibles sur https://help.github.com/articles/using-pull-requests, et un guide de base sur GitHub se trouve sur https://guides.github.com/activities/hello-world/. GitHub propose également un apprentissage interactif sur https://lab.github.com/.
+Si tu en as besoin, des instructions plus détaillées pour créer des Pull Requests sont disponibles sur https://help.github.com/articles/using-pull-requests . Un guide de base sur GitHub se trouve sur https://guides.github.com/activities/hello-world/. GitHub propose également un apprentissage interactif sur https://lab.github.com/.
 
